@@ -7,13 +7,17 @@
   margin: 0;
 }
 
+li {
+  list-style: none;
+}
+
 body {
   scroll-behavior: smooth;
 }
 
 html {
   --base: #303446; 
-  --mantle: #b9a4d5; 
+  --crust: #232634; 
   --text: #c6d0f5;
   --accent: #f4b8e4;
 

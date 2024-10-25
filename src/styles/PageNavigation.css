@@ -1,0 +1,14 @@
+.nav {
+    color: var(--text);
+    background-color: var(--crust);
+}
+
+.nav-btn {
+    padding: 5px;
+    border-radius: 10px; 
+    transition: 0.25s;
+}
+
+.nav-btn:hover {
+    background-color: #838ba7;
+}
