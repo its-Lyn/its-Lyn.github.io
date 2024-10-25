@@ -1,0 +1,12 @@
+.card {
+    background-color: var(--crust);
+    transition: 0.25s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.title {
+    color: var(--accent)
+}

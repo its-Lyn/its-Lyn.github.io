@@ -1,0 +1,27 @@
+.animate {
+    animation-duration: 0.5s;
+    animation-name: fadeIn;
+    animation-timing-function: ease-out;
+    animation-fill-mode: backwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.delay-medium {
+    animation-delay: 0.4s;
+}
+
+.delay-slow {
+    animation-delay: 0.6s;
+}
+
+.delay-fast {
+    animation-delay: 0.2s;
+}

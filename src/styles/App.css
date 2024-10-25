@@ -9,6 +9,10 @@
 	width: 100vw;
 }
 
+.overflow {
+	overflow-y: auto
+}
+
 .primary {
 	color: var(--accent);
 }
@@ -53,4 +57,12 @@
 
 .hover-large:hover {
 	transform: scale(1.05);
+}
+
+.gh-card {
+	background-color: var(--crust)
+}
+
+.faded {
+	opacity: 0.3;
 }
