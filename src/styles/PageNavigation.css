@@ -12,3 +12,12 @@
 .nav-btn:hover {
     background-color: #838ba7;
 }
+
+.primary-btn {
+    color: white;
+    background-color: var(--accent);
+}
+
+.primary-btn:hover {
+    background-color: #facdee;
+}
