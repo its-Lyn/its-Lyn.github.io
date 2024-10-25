@@ -150,7 +150,7 @@ function App() {
 						}
 					</div>
 					<p className="my-2" data-aos="fade-up" data-aos-delay="500">Every project here can be found on my GitHub!</p>
-					<div className="gh-card p-4 rounded-2xl flex flex-row" data-aos="fade-up" data-aos-delay="600">
+					<div className="gh-card p-4 rounded-2xl flex flex-row mb-20" data-aos="fade-up" data-aos-delay="600">
 						<img src={avatarUrl} className="h-20 rounded-3xl" />
 						<div className="text-left">
 							<a className="cursor-pointer font-bold primary ml-2" target="_blank" rel="noopener noreferrer" href={url}><u>{login}</u> <span className="faded font-normal">({name})</span></a>

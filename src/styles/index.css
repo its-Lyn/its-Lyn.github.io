@@ -13,6 +13,7 @@ li {
 
 body {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 html {
