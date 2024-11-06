@@ -60,6 +60,11 @@ function App() {
 			delay: 0
 		},
 		{
+			name: "Panicky Royalty",
+			description: "Arcade game made in C for the Raylib-NEXT Jam!",
+			delay: 0
+		},
+		{
 			name: "lymap",
 			description: "A NohBoard remake made in Rust, for Linux! Compatible with X11 and partially with WayLand.",
 			delay: 0
@@ -104,12 +109,12 @@ function App() {
 
 					<section className="text-lg px-4" data-aos="fade-up" data-aos-delay="100">
 						<p>I'm a very <span className="primary">opinionated</span> 18 year old when it comes to the software I use.</p>
-						<p>I am also a <span className="primary">Trans</span>, so, that means, anti-LGBTQ people <span className="red">DNI</span>!</p>
+						<p>I am also a <span className="primary">Trans Girl</span>, so, that means, anti-LGBTQ people <span className="red">DNI</span>!</p>
 						<p>
 							I am mainly a <span className="primary">Linux</span> user, more specifically
-							<span className="fedora inline-flex items-center">
-								<span className="ml-1">Fedora Linux KDE</span>
-								<img className="ml-2 mr-2" src="img/fedora.svg" alt="fedora" />
+							<span className="alma inline-flex items-center">
+								<span className="ml-1">Alma Linux</span>
+								<img className="ml-1 mr-2 h-7" src="img/alma.svg" alt="alma" />
 							</span>
 						</p>
 						<p>I am also a <span className="primary">Software Developer</span> with a passion for Game Development and other miscellaneous programs such as the site you're viewing.</p>
@@ -124,7 +129,7 @@ function App() {
 
 					<div data-aos="fade-up" data-aos-delay="300">
 						<a className="cursor-pointer" target="_blank" rel="noopener noreferrer" href="https://fedoraproject.org" >
-							<img src="img/showcase.png" className="hover-large m-w-sm m-h-xs" />
+							<img src="img/showcase-alma.png" className="hover-large m-w-sm m-h-xs" />
 						</a>
 					</div>
 			</article>
