@@ -128,7 +128,7 @@ function App() {
 					</section>
 
 					<div data-aos="fade-up" data-aos-delay="300">
-						<a className="cursor-pointer" target="_blank" rel="noopener noreferrer" href="https://fedoraproject.org" >
+						<a className="cursor-pointer" target="_blank" rel="noopener noreferrer" href="https://almalinux.org" >
 							<img src="img/showcase-alma.png" className="hover-large m-w-sm m-h-xs" />
 						</a>
 					</div>
